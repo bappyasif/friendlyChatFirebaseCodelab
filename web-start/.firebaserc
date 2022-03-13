@@ -1,5 +1,6 @@
 {
   "projects": {
-    "handsOn": "friendlychatcodelabsample"
-  }
+    "friendly-chat": "friendlychatcodelabsample"
+  },
+  "targets": {}
 }
